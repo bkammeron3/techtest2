@@ -30,3 +30,4 @@ alert(s);
 
 >PC is the master platform
 - >Brady Kammeron
+[![Comparative Video](https://www.youtube.com/watch?v=VAHHJQOlvgw)
