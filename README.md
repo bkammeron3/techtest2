@@ -23,3 +23,8 @@
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+|    PC         | PS4           | XBOX   |
+| ------------- |:-------------:| -----: |
+|Master Plaform | Master Console|inferior|
+|               |               |
+
