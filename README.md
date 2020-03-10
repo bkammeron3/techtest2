@@ -11,6 +11,9 @@
 3. Better than XBOX
 ![alt text](https://mysetup.co/uploads/files/2104590278/eb13e896-ce28-42c2-9b04-61f273a1b59b.jpg)
 ## ***XBOX***
-
+1. Toxic
+2. Sweaty
+3. Inferior
+![alt text](https://i.ytimg.com/vi/k11SuqO7G6A/maxresdefault.jpg)
 -------------------------
 
