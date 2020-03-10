@@ -4,6 +4,7 @@
 2. High Class
 3. Shits on everything else
 4. *Master Platform*
+[PC Prices](https://www.ibuypower.com/Site/Computer/desktops)
 ![alt text](https://pbs.twimg.com/media/DmctzDlXsAAKXVB?format=jpg&name=medium)
 ## ***PlayStation***
 1. 30-60fps
