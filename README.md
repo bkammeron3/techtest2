@@ -19,4 +19,7 @@
 4. [XBOX Prices](https://www.amazon.com/Xbox-All-Digital-Console-Disc-Free-Gaming/dp/B07XQXZXJC/ref=sr_1_2?keywords=xbox&qid=1583870182&s=electronics&sr=1-2)
 ![alt text](https://i.ytimg.com/vi/k11SuqO7G6A/maxresdefault.jpg)
 -------------------------
-
+'''javascript
+var s = "JavaScript syntax highlighting"
+alert(s);
+'''
