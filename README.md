@@ -28,3 +28,5 @@ alert(s);
 |Master Plaform | Master Console|inferior|
 |               |               |
 
+>PC is the master platform
+- >Brady Kammeron
