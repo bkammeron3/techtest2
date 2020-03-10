@@ -3,7 +3,7 @@
 *Superior 
 *High Class
 *Shits on everything else
-![alt text] (https://pbs.twimg.com/media/DmctzDlXsAAKXVB?format=jpg&name=medium)
+![alt text] (https://i.redd.it/3vjuxubnt1s11.jpg)
 ## ***PlayStation***
 ## ***XBOX***
 
