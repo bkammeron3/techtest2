@@ -20,6 +20,6 @@
 ![alt text](https://i.ytimg.com/vi/k11SuqO7G6A/maxresdefault.jpg)
 -------------------------
 '''javascript
-var s = "JavaScript syntax highlighting"
+var s = "JavaScript syntax highlighting";
 alert(s);
 '''
